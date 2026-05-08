@@ -3,6 +3,10 @@
 ![Kivy](https://img.shields.io/badge/Kivy-Framework-purple)
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green)
 
+<p align="center">
+  <img src="https://github.com/dev-henryyysv/Henry-IA/blob/main/lv_0_20260507215941.gif" width="75%">
+</p>
+
 
 HenricoAI é uma inteligência artificial interativa desenvolvida em Python utilizando Kivy, focada em conversação, aprendizado, ensino educacional e interface futurista animada.
 
