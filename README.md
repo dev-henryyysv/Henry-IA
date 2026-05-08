@@ -101,6 +101,10 @@ A interface foi construída com foco em estética sci-fi e experiência imersiva
 
 ---
 
+<img src="https://github.com/dev-henryyysv/Henry-IA/blob/main/Screenshot_20260507_214043_Video%20Player.jpg" width="100%">
+<img src="https://github.com/dev-henryyysv/Henry-IA/blob/main/Screenshot_20260507_214104_Video%20Player.jpg" width="100%">
+<img src="https://github.com/dev-henryyysv/Henry-IA/blob/main/Screenshot_20260507_214125_Video%20Player.jpg" width="100%">
+
 # 📂 Estrutura de Arquivos
 
 ```bash
