@@ -1,4 +1,7 @@
 # 🤖 HenricoAI
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Kivy](https://img.shields.io/badge/Kivy-Framework-purple)
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green)
 
 <img src="https://github.com/dev-henryyysv/Henry-IA/blob/main/Screenshot_20260507_214125_Video%20Player.jpg" width="100%">
 <img src="https://github.com/dev-henryyysv/Henry-IA/blob/main/Screenshot_20260507_214104_Video%20Player.jpg" width="100%">
